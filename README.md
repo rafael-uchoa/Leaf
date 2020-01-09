@@ -1,4 +1,4 @@
-# Leaf
+<h1 align="center">Leaf</h1>
 
 <h3 align="center">
   <img src="https://i.imgur.com/QACqsyz.png"><br>
