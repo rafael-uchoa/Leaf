@@ -1,5 +1,5 @@
 # Leaf
-![img](https://i.imgur.com/U2blw1C.png)
+![img](https://i.imgur.com/QACqsyz.png)
 ### A bot developed for Discord app.
 
 ## :heavy_check_mark: To-do List:
