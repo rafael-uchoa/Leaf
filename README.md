@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <img src="https://i.imgur.com/QACqsyz.png"><br>
-  A bot developed for Discord app.
+  A bot developed for the Discord app.
   <br>
 </h3> 
 
