@@ -1,4 +1,4 @@
-# :robot: Leaf
+# Leaf
 
 ![img](https://i.imgur.com/wkBRfd9.png)
 
