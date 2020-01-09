@@ -1,0 +1,5 @@
+{
+  "token": "MY_TOKEN",
+  "prefix": ".",
+  "fortunes": ["Yes.", "No.", "Maybe?", "I have no idea...", "It's complicated...", "Most definitely!", "Sure, why not?", "How dare you ask me this?", "Let me check, I'll tell you later...", "I don't know, I'm just a BOT."]
+}
