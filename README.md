@@ -5,7 +5,7 @@
   A bot developed for Discord app.
 </h3> 
 
-## :heavy_check_mark: To-do List:
+#### :heavy_check_mark: To-do List:
 * Music Player
 * Level System
 * Store
