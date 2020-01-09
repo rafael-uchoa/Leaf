@@ -1,9 +1,7 @@
 # Leaf
 ![img](https://i.imgur.com/QACqsyz.png)
 ### A bot developed for Discord app.
-<pre>
 
-</pre>
 ## :heavy_check_mark: To-do List:
 * Music Player
 * Level System
