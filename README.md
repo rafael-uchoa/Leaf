@@ -4,7 +4,7 @@
 
 ### A bot developed for Discord app.
 
-# TODO List:
+# To-do List:
 * Music Player
 * Level System
 * Store
